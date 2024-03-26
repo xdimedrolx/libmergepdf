@@ -25,7 +25,6 @@
         "setasign/fpdi": "^2"
     },
     "conflict": {
-        "setasign/fpdf": "*",
         "rafikhaceb/tcpdi": "*"
     },
     "require-dev": {
